@@ -13,4 +13,8 @@ The data analysis team requires you as a data engineer to clean and transform th
   1. Duplicate rows dropped
   2. Data type of date column changed from object to datetime
   3. White space in data removed
-  4. Null values filled 
+  4. Null values filled
+  5. Odd characters(&,%) removed
+  6. split state,city column into separate columns
+  7. Saved as a new csv file dataset
+  8. Run business analysis on dataset
